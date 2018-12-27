@@ -1,6 +1,6 @@
 # L'objectif
 
-L'objectif est de réaliser une cartographie des communes ou bureaux de vote où la population est susceptible d'être intéressée par notre discours.
+L'objectif est d'établir une cartographie politique par analyse écologique.
 Le premier objectif est de générer de compiler les données +suivante+s :
  * présidentielles 2007
  * présidentielles 2012
