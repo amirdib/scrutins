@@ -7,19 +7,13 @@ Le premier objectif est de générer de compiler les données +suivante+s :
  * législatives 2012
  * européennes également
 
-En exploitant les données par bureau de vote.
-
-Il faudra ensuite idéalement identifier les transferts suivants :
- * PS -> PG
- * PS -> FN
- * PS -> abstention
+En exploitant les données par bureau de vote et en calculant les transferts.
  
 L'objectif est aussi de répérer les régions avec un fort vote NON "de gauche" au référendum de 2005.
 
 
 # Comment ?
 
-Le code est assez simple à comprendre, pour qui connait python.
 Les cartes sont générées à partir d'un fichier SVG et de feuilles de style XSLT.
 
 ```
